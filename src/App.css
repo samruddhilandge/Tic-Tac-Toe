@@ -115,9 +115,8 @@
   text-align: center;
   top: 35%;
   width: 100%;
-  position:'fixed';
-  margin-top:10;
-  font-family: 'calibri';
+ 
+  font-family: 'open sans';
   font-weight:'bolder';
 }
 
